@@ -1,4 +1,4 @@
-# PEnetracionWifi
+# PenetracionWifi
 Este escript esta integramente hecho en base al tutorial de s4vitar (ahi lo pueden encontrar en youtube, se recomienda mucho es buen profesor)
 
 
